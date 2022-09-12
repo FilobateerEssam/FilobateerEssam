@@ -7,9 +7,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/filobateeressam14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filobateeressam14/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/filobateeresaam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/filobateeresaam1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/filobateeresaam99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/filobateeresaam99/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filobateeressam14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filobateeressam14" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/filobateeresaam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="filobateeresaam1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/filobateeresaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="filobateeresaam" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/filobateeresaam99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="filobateeresaam99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
